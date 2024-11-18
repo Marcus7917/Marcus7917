@@ -5,8 +5,6 @@ Hello World - 👋 Hi, I’m @Marcus7917
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-    
+<!---
 Sudo apt master * kali-linux * Pen-tester --
-
-                                 ---> @techzeck.me
+---> 
